@@ -1,0 +1,32 @@
+
+.banner {
+  background-size: cover;
+  background-position: center;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+  border-radius: 5px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  margin-bottom: 20px;
+  padding: 200px 0;
+}
+
+.banner p {
+  color: white;
+  opacity: .7;
+  font-size: 20px;
+  padding-bottom: 25px;
+}
+
+.btn-primary {
+  color: white;
+  padding: 16px 36px;
+  border-radius: 40px;
+  font-weight: bold;
+  background: #1EDD88;
+  border: 1px solid #1EDD88;
+}
+
